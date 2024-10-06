@@ -57,7 +57,7 @@ button_signup = pygame.Rect(460, 260, 90, 40)
 button_submit_signup = pygame.Rect(350, 300, 200, 40)
 
 # Load background for next screen
-background = pygame.image.load('space.jpeg')
+background = pygame.image.load('background.jpg')
 
 # Level setup
 level_1 = pygame.Rect(300, 150, 150, 40)
