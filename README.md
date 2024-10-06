@@ -30,3 +30,9 @@ Install the necessary Python libraries using the following:
 
 ```bash
 pip install pygame mysql.connector
+
+
+Set up the MySQL database:
+
+Create a database named game.
+Run the following SQL command to create the required table:
