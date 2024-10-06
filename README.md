@@ -28,6 +28,7 @@ Neowise is an interactive educational game designed to raise awareness of enviro
 - **Python 3.12.7**
 - **Pygame:** A Python library for game development.
 - **MySQL:** Used to store login credentials and progress.
+- Copy the image to the same directory
 '''bash
 Install the necessary Python libraries using the following:
 
