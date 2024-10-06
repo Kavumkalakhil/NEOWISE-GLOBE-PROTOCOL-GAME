@@ -34,7 +34,7 @@ Install the necessary Python libraries using the following:
 ## MySQL setup:
   - install mysql
   - create database game;
-  - CREATE TABLE users ( id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR(255) NOT NULL, password VARCHAR(255) NOT NULL );
+  - CREATE TABLE users (Username VARCHAR(255) , Password VARCHAR(255) , Age int , Email varchar(50) , level int default 1);
 
 ## Game Instructions
  - Start the game and log in using your credentials.
