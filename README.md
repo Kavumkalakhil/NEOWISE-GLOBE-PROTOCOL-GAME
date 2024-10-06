@@ -30,10 +30,6 @@ Neowise is an interactive educational game designed to raise awareness of enviro
 - **MySQL:** Used to store login credentials and progress.
 - Copy the image to the same directory
 
-  
-'''bash
-Install the necessary Python libraries using the following:
-
 ## Installation
 
 ## To install Python Modules
