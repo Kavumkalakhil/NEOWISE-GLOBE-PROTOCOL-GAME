@@ -28,6 +28,7 @@ Neowise is an interactive educational game designed to raise awareness of enviro
 '''bash
 Install the necessary Python libraries using the following:
 
+## Installation
 ## To install Python Modules
 - pip install pygame mysql.connector
 
@@ -35,10 +36,14 @@ Install the necessary Python libraries using the following:
   - install mysql
   - create database game;
   - CREATE TABLE users (Username VARCHAR(255) , Password VARCHAR(255) , Age int , Email varchar(50) , level int default 1);
+  - conn = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="12345678",
+    database="game"
+) change it according to your details in the program
 
 ## Game Instructions
  - Start the game and log in using your credentials.
  - Follow the on-screen instructions to navigate through various environmental science challenges.
  - Accumulate points by completing tasks that raise awareness about environmental conservation.
-
-
