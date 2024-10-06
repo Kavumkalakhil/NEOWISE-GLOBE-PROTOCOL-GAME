@@ -29,6 +29,6 @@ Neowise is an interactive educational game designed to raise awareness of enviro
 Install the necessary Python libraries using the following:
 
 ##
--pip install pygame mysql.connector
+- pip install pygame mysql.connector
  Set up the MySQL database:
 
