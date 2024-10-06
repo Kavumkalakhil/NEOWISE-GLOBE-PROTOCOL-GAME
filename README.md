@@ -1,3 +1,7 @@
+# PROBLEM STATEMENT
+Learning about science can be a fun experience! Games that focus on science and environmental issues can create opportunities for players to develop their interests and gain knowledge while engaging with each other in a fun way. Your challenge is to create a game that integrates Global Learning and Observations to Benefit the Environment (GLOBE) Program protocols to help players understand the world around them, develop awareness of one or more local or global environmental topics, investigate their local community using GLOBE protocols, or learn scientific principles.
+# SOLUTION:
+
 # NEOWISE GLOBE PROTOCOL GAME
 
 Neowise is an interactive educational game designed to raise awareness of environmental science. Players answer questions based on the GLOBE Program protocols to progress through levels, learning more about sustainability and environmental care.
