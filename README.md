@@ -1,4 +1,4 @@
-# Environmental Science Game
+# NEOWISE GLOBE PROTOCOL GAME
 
 This project is a web-based environmental science game developed using **Python** and **Pygame**. The game aims to raise awareness about environmental issues through interactive gameplay.
 
@@ -21,4 +21,4 @@ This project is a web-based environmental science game developed using **Python*
 Install the necessary Python libraries using the following:
 
 ```bash
-pip install pygame mysql-connector-python
+pip install pygame mysql.connector
