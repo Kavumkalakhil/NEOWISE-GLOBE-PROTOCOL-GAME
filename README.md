@@ -14,7 +14,7 @@ This project is a web-based environmental science game developed using **Python*
 
 ### Requirements
 
-- **Python 3.x**
+- **Python 3.12.7**
 - **Pygame:** A Python library for game development.
 - **MySQL:** Used to store login credentials and progress.
 
