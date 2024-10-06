@@ -2,7 +2,7 @@
 
 Neowise is an interactive educational game designed to raise awareness of environmental science. Players answer questions based on the GLOBE Program protocols to progress through levels, learning more about sustainability and environmental care.
 
-#Features
+##Features
 
 
 Login and Sign-up:
